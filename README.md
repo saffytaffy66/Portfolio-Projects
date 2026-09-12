@@ -9,7 +9,7 @@ I'm a data analyst with a background in secondary education and aspirations of b
 - Python
 
 ## My Projects:
-[World Layoffs - Data Cleaning](...)
+[World Layoffs - Data Cleaning](https://github.com/saffytaffy66/world-layoffs-data-cleaning.git)
 
 ## Currently Learning:
 - Advanced SQL/Python
@@ -17,4 +17,4 @@ I'm a data analyst with a background in secondary education and aspirations of b
 - Microsoft Azure
 
 ## Let's Connect!
-[LinkedIN](https://linkedin.com/in/mitchell-saffle)
+[LinkedIn](https://linkedin.com/in/mitchell-saffle)
