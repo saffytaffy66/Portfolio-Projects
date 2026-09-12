@@ -1,6 +1,6 @@
 # Hello, I'm Mitch!
 
-I'm a data analyst with a background in secondary education and aspirations of becoming an data analytics engineer. I like building projects that help me to learn new tools, technologies, and processes to better understand analytics workflows.
+I'm a data analyst with a background in secondary education and aspirations of becoming a data analytics engineer. I like building projects that help me to learn new tools, technologies, and processes to better understand analytics workflows.
 
 ## Tools I Work With:
 - Microsoft Excel
