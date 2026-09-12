@@ -16,5 +16,8 @@ I'm a data analyst with a background in secondary education and aspirations of b
 - Microsoft Fabric
 - Microsoft Azure
 
+## Certifications:
+- Microsoft Azure Data Fundamentals (DP-900)
+
 ## Let's Connect!
 [LinkedIn](https://linkedin.com/in/mitchell-saffle)
